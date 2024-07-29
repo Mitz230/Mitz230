@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/mitpatel_30" target="blank"><img src="https://img.shields.io/twitter/follow/mitpatel_30?logo=twitter&style=for-the-badge" alt="mitpatel_30" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **MERN Full-Stack**
 
 - 📫 How to reach me **mitpatel304.p@gmail.com**
 
